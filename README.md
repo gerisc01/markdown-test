@@ -1,7 +1,7 @@
 # Kinetic Core Bridgehub Adapter
 A Kinetic Bridgehub adapter for the Kinetic Request: Core Edition platform
 
-[What is a Bridgehub adapter?](#adding-the-adapter-to-bridgehub)
+[How is the adapter tested?](#how-is-the-adapter-tested)
 
 # General Bridgehub Information
 ---

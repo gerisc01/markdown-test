@@ -1,12 +1,12 @@
 # Kinetic Core Bridgehub Adapter
 A Kinetic Bridgehub adapter for the Kinetic Request: Core Edition platform
 
--[General Bridgehub Information](#general-bridgehub-information)
-  -[What is a Bridgehub adapter?](#what-is-a-bridgehub-adapter)
-  -[Bridgehub adapter basics](#bridgehub-adapter-basics)
-  -[How is the adapter tested?](#how-is-the-adapter-tested)
-  -[How is the adapter built?](#how-is-the-adapter-built)
-  -[Adding the adapter to Bridgehub](#adding-the-adapter-to-bridgehub)
+* [General Bridgehub Information](#general-bridgehub-information)
+  * [What is a Bridgehub adapter?](#what-is-a-bridgehub-adapter)
+  * [Bridgehub adapter basics](#bridgehub-adapter-basics)
+  * [How is the adapter tested?](#how-is-the-adapter-tested)
+  * [How is the adapter built?](#how-is-the-adapter-built)
+  * [Adding the adapter to Bridgehub](#adding-the-adapter-to-bridgehub)
 
 # General Bridgehub Information
 ---

@@ -1,12 +1,36 @@
 # Kinetic Core Bridgehub Adapter
 A Kinetic Bridgehub adapter for the Kinetic Request: Core Edition platform
 
+* [Kinetic Core Bridgehub Adapter Information](#kinetic-core-bridgehub-adapter-information)
+  * [Configuration Values](#configuration-values)
+  * [Example Configuration](#example-configuration)
+  * [Changelog](#changelog)
 * [General Bridgehub Information](#general-bridgehub-information)
   * [What is a Bridgehub adapter?](#what-is-a-bridgehub-adapter)
   * [Bridgehub adapter basics](#bridgehub-adapter-basics)
   * [How is the adapter tested?](#how-is-the-adapter-tested)
   * [How is the adapter built?](#how-is-the-adapter-built)
   * [Adding the adapter to Bridgehub](#adding-the-adapter-to-bridgehub)
+
+# Kinetic Core Bridgehub Adapter Information
+---
+## Configuration Values
+| Name                    | Description |
+| :---------------------- | :------------------------- |
+| Username                | The username that will be used to access the Kinetic Core information |
+| Password                | The password that is associated with the username |
+| Kinetic Core Space Url  | The url of the Kinetic Core instance up to and including the space that up want to be retrieving the data from |
+
+## Example Configuration
+| Name | Value |
+| :---- | :--- |
+| Username | user@acme.com |
+| Password | secret-password |
+| Kinetic Core Space Url | https://localhost:8080/kinetic/space-slug |
+
+## Changelog
+### 1.0.0
+* Initial Version
 
 # General Bridgehub Information
 ---

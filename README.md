@@ -22,11 +22,11 @@ Parameters
 Results
 =====
 *Id:*
-  The id of the issue that was created.
+  The id of the issue that was created.  
 *Key:*
-  The key of the issue that was created.
+  The key of the issue that was created.  
 *Url:*
-  The url of the issue that was created.
+  The url of the issue that was created.  
 
 Sample Configuration
 =====
